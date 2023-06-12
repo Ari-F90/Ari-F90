@@ -6,7 +6,7 @@
 <div/>
 
 <div align="left">
-  <h3> :woman_technologist:  About me</h3>
+  <h2> :woman_technologist:  About me</h2>
   <p> :chart: 	I started my career as a financial advisor and then I came across with the programming world</p>
   <p>:telescope: Now I am excited to explore new challenges and opportunities in this field</p>
   <p> :dart: My goal is to continue learning and improving my skills while contributing to meaningful projects that make a difference</p>
@@ -17,7 +17,7 @@
   
    <div align="left">  
 
- <h3> :computer: Languages and Tools<h3/>
+ <h2> :computer: Languages and Tools<h2/>
    <div align="center">
  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" width="50"/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" width="50"/>
@@ -39,10 +39,6 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" width="50"/>
          <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" width="50"/>
       <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="50"/>                                                                                                   
-    <div/>                                                                                                     </div>
- <div align="left">  
+    <div/>                                                                                                     
+         
 
- <h4> :mailbox_closed: How to reach me<h4/>  <a href="https://www.linkedin.com/in/ariadnafriasdiaz/">
-<img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="Linkedin" width="30">
-<a/>
- </div>
