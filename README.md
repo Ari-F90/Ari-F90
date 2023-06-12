@@ -19,7 +19,8 @@
 
  <h2> :computer: Languages and Tools<h2/>
    <div align="center">
- <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" width="50"/>
+     ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" width="50"/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" width="50"/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="50"/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" width="50"/>
