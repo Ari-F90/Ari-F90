@@ -29,4 +29,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ari-F90&layout=compact)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Ari-F90)](https://git.io/streak-stats)
+
