@@ -25,4 +25,6 @@
      <br/>
 ![GIT](https://img.shields.io/badge/GIT-red.svg?style=for-the-badge&logo=git&logoColor=white) ![GITHUB](https://img.shields.io/badge/GITHUB-black.svg?style=for-the-badge&logo=github&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![FIREBASE](https://img.shields.io/badge/firebase-orange.svg?style=for-the-badge&logo=firebase&logoColor=white) ![FIGMA](https://img.shields.io/badge/figma-red.svg?style=for-the-badge&logo=figma&logoColor=white) ![POSTMAN](https://img.shields.io/badge/POSTMAN-orange.svg?style=for-the-badge&logo=postman&logoColor=white) ![NETLIFY](https://img.shields.io/badge/NETLIFY-black.svg?style=for-the-badge&logo=netlify&logoColor=white) ![VISUAL STUDIO CODE](https://img.shields.io/badge/visual%20studio%20code-blue.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+## 📊 My stats
 
+![Ari's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ari-F90&show_icons=true&theme=radical)
