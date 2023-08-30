@@ -11,7 +11,7 @@
   <p>:telescope: Now I am excited to explore new challenges and opportunities in this field</p>
   <p> :dart: My goal is to continue learning and improving my skills while contributing to meaningful projects that make a difference</p>
   <p>:rainbow: I enjoy working together with other people</p>
-  <p> :books: Currently, I’m focused on studying React and working on my own projects, but always also opened to face new ones</p>
+  <p> :books: Currently, I’m focused on studying React and C#, apart from working on my own projects, but always also opened to face new ones</p>
      
    <div align="left">  
 
